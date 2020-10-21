@@ -1,0 +1,25 @@
+------------------------------------------------
+  LOG REPORT - 2020-10-20 15:59:13
+------------------------------------------------
+  MODULO 4:    MACHINE LEARNING  
+------------------------------------------------
+  CNJ Inova -  HACKATHON - Desafio 2    
+  CleaNJud  -  Saneamento do DATAJUD    
+  Version:     18/10/2020 - v 1.0.0     
+------------------------------------------------
+Start at        : 2020-10-20 15:59:13
+Input  Directory: D:\CNJ\output\
+Output Directory: D:\CNJ\output\
+15:59:13   ... carregando parametros...
+15:59:13   ... leitura do arquivo de entrada...
+15:59:45   ... inicio Modelo Aprendizado ...
+15:59:56   ... Calculo dos Percentuais Distribuicao ...
+15:59:56   ... gravando a base de conhecimento do Machine Learning ...
+15:59:56   ... Carrega a base de conhecimento pra memoria ...
+15:59:56   ... Grava Arquivo de OUTLIERS (provaveis anomalias) ...
+Registros Processados       = 2994290
+
+Qde Anomalias Identificadas = 128768
+
+Completo:  2020-10-20 16:00:05
+

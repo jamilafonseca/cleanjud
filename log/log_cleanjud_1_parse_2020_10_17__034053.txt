@@ -1,0 +1,52 @@
+------------------------------------------------
+  LOG REPORT - 2020-10-17 03:40:53
+------------------------------------------------
+  CNJ Inova -  HACKATHON - Desafio 2    
+  CleaNJud  -  Saneamento do DATAJUD    
+  Version:     17/10/2020 - v 1.0.0     
+------------------------------------------------
+Start at        : 2020-10-17 03:40:53
+Input  Directory: C:\bases_CNJ
+Output Directory: D:\CNJ\output\
+Arq JSON Processados= 613
+Qde Processos       = 2994290
+Qde Movimentacoes   = 132520434
+Completo:  2020-10-17 05:28:22
+
+Preenchimento:
+DATA_INSERCAO                  : 002994290  perc:(100.00%)  
+DATA_AJUIZAMENTO               : 002994290  perc:(100.00%)  
+NUM_PROCESSO                   : 002994290  perc:(100.00%)  
+GRAU_JURISDICAO                : 002994290  perc:(100.00%)  
+SIGLA_TRIBUNAL                 : 002994290  perc:(100.00%)  
+ORGAO_NOME                     : 002981082  perc:(99.56%)  
+ORGAO_CODIGO                   : 002994256  perc:(100.00%)  
+ORGAO_INSTANCIA                : 002994290  perc:(100.00%)  
+ORGAO_MUN_IBGE                 : 002994290  perc:(100.00%)  
+COD_LOCALIDADE                 : 002993813  perc:(99.98%)  
+CLASSE_PROCESSUAL              : 002994290  perc:(100.00%)  
+TIPO_PROCESSO                  : 002002236  perc:(66.87%)  
+SIST_ELETRONICO                : 001943116  perc:(64.89%)  
+VALOR_CAUSA                    : 001763988  perc:(58.91%)  
+ASSUNTO1_COD_LOCAL             : 000171345  perc:(5.72%)  
+ASSUNTO1_COD_PAI               : 000171345  perc:(5.72%)  
+ASSUNTO1_DESCRICAO             : 000138657  perc:(4.63%)  
+ASSUNTO1_PRINCIPAL             : 002828178  perc:(94.45%)  
+ASSUNTO1_COD_NACIONAL          : 002644957  perc:(88.33%)  
+ASSUNTO2_COD_LOCAL             : 000019815  perc:(0.66%)  
+ASSUNTO2_COD_PAI               : 000019815  perc:(0.66%)  
+ASSUNTO2_DESCRICAO             : 000016219  perc:(0.54%)  
+ASSUNTO2_PRINCIPAL             : 001035657  perc:(34.59%)  
+ASSUNTO2_COD_NACIONAL          : 001013667  perc:(33.85%)  
+ASSUNTO3_COD_LOCAL             : 000013587  perc:(0.45%)  
+ASSUNTO3_COD_PAI               : 000013587  perc:(0.45%)  
+ASSUNTO3_DESCRICAO             : 000012879  perc:(0.43%)  
+ASSUNTO3_PRINCIPAL             : 000396219  perc:(13.23%)  
+ASSUNTO3_COD_NACIONAL          : 000382604  perc:(12.78%)  
+MOV_026_DISTRIB                : 002133574  perc:(71.25%)  
+MOV_193_SENTENCA               : 001748643  perc:(58.40%)  
+MOV_848_JULGADO                : 000549205  perc:(18.34%)  
+MOV_022_BAIXA                  : 000490685  perc:(16.39%)  
+MOV_246_ARQUIVA                : 001299958  perc:(43.41%)  
+MOV_NAC_TODOS                  : 002882949  perc:(96.28%)  
+MOV_QUANTIDADE                 : 002994290  perc:(100.00%)  

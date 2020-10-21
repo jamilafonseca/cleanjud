@@ -1,0 +1,15 @@
+------------------------------------------------
+  LOG REPORT - 2020-10-20 17:32:23
+------------------------------------------------
+  MODULO 3:    Relat Inconsistencias   
+------------------------------------------------
+  CNJ Inova -  HACKATHON - Desafio 2    
+  CleaNJud  -  Saneamento do DATAJUD    
+  Version:     16/10/2020 - v 1.0.0     
+------------------------------------------------
+Start at        : 2020-10-20 17:32:23
+Input  Directory: D:\CNJ\output\
+Output Directory: D:\CNJ\output\
+Registros Processados= 2994290
+Completo:  2020-10-20 17:39:29
+

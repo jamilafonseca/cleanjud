@@ -1,0 +1,14 @@
+------------------------------------------------
+  LOG REPORT - 2020-10-17 23:15:12
+------------------------------------------------
+  MODULO 2:    Unifica Tableas Classe, Mov e Assunto   
+------------------------------------------------
+  CNJ Inova -  HACKATHON - Desafio 2    
+  CleaNJud  -  Saneamento do DATAJUD    
+  Version:     11/10/2020 - v 1.0.0     
+------------------------------------------------
+Start at        : 2020-10-17 23:15:12
+Input  Directory: C:\bases_CNJ
+Output Directory: D:\CNJ\output\
+Completo:  2020-10-17 23:15:12
+

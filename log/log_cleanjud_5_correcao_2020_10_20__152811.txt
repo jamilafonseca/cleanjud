@@ -1,0 +1,29 @@
+------------------------------------------------
+  LOG REPORT - 2020-10-20 15:28:11
+------------------------------------------------
+  MODULO 5:    CORRECAO E ENRIQUECIMENTO  
+------------------------------------------------
+  CNJ Inova -  HACKATHON - Desafio 2    
+  CleaNJud  -  Saneamento do DATAJUD    
+  Version:     20/10/2020 - v 1.0.0     
+------------------------------------------------
+Start at        : 2020-10-20 15:28:11
+Input  Directory: D:\CNJ\output\
+Output Directory: D:\CNJ\output\
+Registros Processados= 2994290
+Completo:  2020-10-20 15:30:43
+
+
+Resultado Quantitativo das Correcoes FEITAS :
+
+01-DATA_AJUIZAMENTO       = 177027
+02-NUM_PROCESSO           = 0
+03-GRAU_JURISDICAO        = 0
+04-SIGLA_TRIBUNAL         = 0
+05-ORGAO_NOME             = 0
+06-ORGAO_CODIGO           = 38135
+07-ORGAO_MUN_IBGE         = 425382
+08-COD_LOCALIDADE         = 995586
+09-CLASSE_PROCESSUAL      = 0
+10-TIPO_PROCESSO          = 0
+11-SIST_ELETRONICO        = 910458
